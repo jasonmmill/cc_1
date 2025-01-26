@@ -19,3 +19,19 @@ console.log(productPrice)
 console.log(typeof(productPrice))
 console.log(isAvailable)
 console.log(typeof(isAvailable))
+
+// Task 3: Number Data Type
+let accountBalance = 500
+console.log(accountBalance)
+// addition
+let add = accountBalance + 500
+console.log(add)
+// subtraction
+let sub = accountBalance - 250
+console.log(sub)
+// multiplication
+let mlt = accountBalance * 3
+console.log(mlt)
+// division
+let div = accountBalance / 5
+console.log(div)
