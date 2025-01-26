@@ -35,3 +35,9 @@ console.log(mlt)
 // division
 let div = accountBalance / 5
 console.log(div)
+
+// Task 4: String Data Type
+let customerName = "Chad"
+let greeting = "Hello "
+custgreeting = greeting.concat(customerName) + ", thank you for shopping with us!"
+console.log(custgreeting)
