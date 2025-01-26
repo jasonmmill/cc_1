@@ -41,3 +41,9 @@ let customerName = "Chad"
 let greeting = "Hello "
 custgreeting = greeting.concat(customerName) + ", thank you for shopping with us!"
 console.log(custgreeting)
+
+// Task 5: Boolean Data Type
+let isLoggedIn = true
+console.log(isLoggedIn)
+logincomplete = isLoggedIn && "Login Complete!"
+console.log(logincomplete)
